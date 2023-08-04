@@ -1,0 +1,17 @@
+//  NOTE : - USE Fake api As A JSON Server and build this project -
+//  - its work fine without using any db or external data base 
+
+const usersUrl2 = 'http://localhost:3000/posts/1';
+const usersUrl3 = 'http://localhost:3000/posts/12';
+const usersUrl = 'http://localhost:3000/posts';
+
+
+0 - All documnetation about it (  https://github.com/typicode/json-server ) .
+1 - open terminal 
+2 - install global npm install -g json-server
+3 -  then  , json-server --watch db.json 
+4 - then , all work fine 
+
+
+5 - imp all up things. 
+
